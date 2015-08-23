@@ -1,9 +1,21 @@
-﻿<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-    <title></title>
-</head>
-<body>
-
-</body>
-</html>
+﻿<?xml version="1.0"?>
+<proizvodi>
+  <proizvod>
+    <id>1</id>
+    <naziv>Nora B-52</naziv>
+    <opis>Samohodna haubica 155mm Nora B-52</opis>
+    <kategorija>Samohodna haubica</kategorija>
+    <proizvodjac>Yugoimport SDPR</proizvodjac>
+    <dobavljac>RSK</dobavljac>
+    <cena>1000000</cena>
+  </proizvod>
+  <proizvod>
+      <id>2</id>
+      <naziv>Lazar BVT</naziv>
+      <opis>Visenamensko borbeno vozilo pesadije</opis>
+      <kategorija>Borbeno vozilo pesadije</kategorija>
+      <proizvodjac>Yugoimport SDPR</proizvodjac>
+      <dobavljac>RSK</dobavljac>
+      <cena>900000</cena>
+    </proizvod>
+</proizvodi>
